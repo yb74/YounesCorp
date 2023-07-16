@@ -1,0 +1,14 @@
+# Project exclude paths
+target/
+*.iml
+*.log
+*.swp
+*.class
+*.jar
+*.war
+*.ear
+*.properties
+dependency-reduced-pom.xml
+.project
+.settings/
+.idea/
